@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![findhappiness's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=findhappiness&layout=compact&hide_border=true&langs_count=10)
+
+[![findhappiness's GitHub stats](https://github-readme-stats.vercel.app/api?username=findhappiness&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
